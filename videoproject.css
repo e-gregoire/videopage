@@ -1,0 +1,50 @@
+h1 {
+
+    width:50%;
+    text-align:center;
+    margin-left:275px;
+    padding: 15px;
+    font-size: 0.95em;
+    
+
+}
+
+iframe {
+    display:inline-block;
+    float: center;
+    margin-left:300px;
+  
+
+
+}
+
+#commentaire {
+    display:inline-block;
+    width:50%;
+    float: center;
+    margin-left:300px;
+
+
+}
+
+body {
+    display:inline-block;
+    
+    width:100%;
+    height:800px;
+    background-repeat:no-repeat;
+
+}
+
+article {
+
+    display:inline-block;
+    width:90%;
+}
+
+textarea {
+
+    width:100%;
+    height:100px;
+
+}
